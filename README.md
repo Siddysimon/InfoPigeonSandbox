@@ -40,13 +40,7 @@ NOTE: Since there is no password reset functionality to begin with in the local 
 
 7.) Last but not least, log in as the administration, click the gear icon in the top right and navigate to Administration -> Plugins. From there make sure all plugins except the following ones are enabled:
 
--Bookmarks
--Front Page Demo
--Diagnostics
--Embed
--Tag Cloud
--Web Services
--Data views for web services
+-Bookmarks, Front Page Demo, Diagnostics, Embed, Tag Cloud, Web Services, and Data views for web services
 
 
 
