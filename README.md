@@ -22,14 +22,14 @@ In order to run this code, the following steps must be taken:
 
 5.) Create a database called "usersys" and create a table using command below:
 
-CREATE TABLE users (
+"CREATE TABLE users (
 
 idUsers int(11) AUTO_INCREMENT PRIMARY KEY NOT NULL,
 uidUsers TINYTEXT NOT NULL,
 emailUsers TINYTEXT NOT NULL,
 displaynameUsers TINYTEXT NOT NULL,
 pwdUsers LONGTEXT NOT NULL
-);
+);"
 
 
 NOTE: Since there is no password reset functionality to begin with in the local environment, we'll skip the step of creating the table in the SQL database for it.
