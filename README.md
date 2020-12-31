@@ -38,9 +38,7 @@ NOTE: Since there is no password reset functionality to begin with in the local 
 6.) Navigate to the Elgg site ('http://localhost/sites/elgg/elgg-2.3.14/') and complete the setup steps.
 
 
-7.) Last but not least, log in as the administration, click the gear icon in the top right and navigate to Administration -> Plugins. From there make sure all plugins except the following ones are enabled:
-
--Bookmarks, Front Page Demo, Diagnostics, Embed, Tag Cloud, Web Services, and Data views for web services
+7.) Last but not least, log in as the administration, click the gear icon in the top right and navigate to Administration -> Plugins. From there make sure all plugins except the following ones are enabled: Bookmarks, Front Page Demo, Diagnostics, Embed, Tag Cloud, Web Services, and Data views for web services.
 
 
 
