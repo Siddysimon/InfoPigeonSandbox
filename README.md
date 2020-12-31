@@ -32,7 +32,7 @@ pwdUsers LONGTEXT NOT NULL
 );"
 
 
-NOTE: Since there is no password reset functionality to begin with in the local environment, we'll skip the step of creating the table in the SQL database for it.
+NOTE: Since there is no password reset functionality in the local environment, we'll skip the step of creating the table in the SQL database for it.
 
 
 6.) Navigate to the Elgg site ('http://localhost/sites/elgg/elgg-2.3.14/') and complete the setup steps.
