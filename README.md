@@ -20,7 +20,7 @@ In order to run this code, the following steps must be taken:
 4.) Open a browser and go to: http://localhost/phpmyadmin/
 
 
-5.) Create a database called "usersys" and create a table with the encased command below:
+5.) Create a database called "usersys" and create a table using command below:
 
 CREATE TABLE users (
 
