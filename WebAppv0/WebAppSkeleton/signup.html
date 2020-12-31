@@ -1,0 +1,62 @@
+<!-- create account page for InfoPigeon.app
+5.24.20
+-->
+</<!DOCTYPE html>
+<html>
+  <head>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap" rel="stylesheet">
+    <link rel="icon" href="logo.jpg">
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <meta charset="utf-8">
+    <title>Sign up - InfoPigeon</title>
+    <link rel="stylesheet" href="signup.css">
+  </head>
+  <body>
+    <h2>InfoPigeon</h2>
+    <br>
+    <br>
+
+
+<form action="includes/signup.inc.php" method="post">
+ <div class="login-box">
+   <h1>Sign up.</h1>
+   <div class="textbox">
+     <i class="fa fa-user"></i>
+     <input type="text" placeholder="Username" name="uid" value="">
+   </div>
+
+   <div class="textbox">
+     <i class="fa fa-envelope"></i>
+     <input type="text" placeholder="Email" name="mail" value="">
+   </div>
+
+   <div class="textbox">
+     <i class="fa fa-building"></i>
+     <input type="text" placeholder="Organization" name="dispname" value="">
+   </div>
+
+
+   <div class="textbox">
+     <i class="fa fa-lock"></i>
+     <input type="password" placeholder="Password" name="pwd" value="">
+   </div>
+
+   <div class="textbox">
+     <i class="fa fa-lock"></i>
+     <input type="password" placeholder="Re-Enter Password" name="pwd-repeat" value="">
+   </div>
+
+
+
+
+</form>
+
+
+<button type="submit" name="signup-submit">Create Account</button>
+<div class="links">
+ <a href="index.html"> Sign in instead.</a>
+ <a href="reset-password.php"> Forgot your password?</a>
+</div>
+
+  </body>
+</html>
