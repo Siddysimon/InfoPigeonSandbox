@@ -1,2 +1,2 @@
 # InfoPigeonSandbox
-This was the first skeleton for the beta version of InfoPigeon's social network. Check out InfoPigeon.com for more info on the company!
+This was the first skeletal version of InfoPigeon's social network. Though functional, this came right out of the sandbox, so the code is ugly and lacks organization in many ways. Visit InfoPigeon.com for more info on the company!
