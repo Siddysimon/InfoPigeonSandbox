@@ -1,7 +1,7 @@
 # InfoPigeonSandbox
 This was the first skeleton for the alpha version of InfoPigeon's web application, which just includes the networking functionality. This code came right out of the sandbox, so it is relatively unpolished and lacking in organization. My primary motivation for uploading this code was to illustrate the approaches to creating InfoPigeon's social network, while ensuring that the final closed-source product is satisfactorily distinct, as a result of significantly improved functionality and organization.
 
-This project was run using XAMPP 7.2.30. The social network was a hybrid build, made with Elgg 2.3.14, an open-source social network engine, and customized plugins, with multiple of them coming from the Elgg community. A separate but linked PHP user system was also created, in order to allow for future user functionality outside the scope of a social network. Furthermore, please note that users will not be able to reset their passwords in this local implementation.
+This project was run using XAMPP 7.2.30. The social network was a hybrid build, made with Elgg 2.3.14, an open-source social network engine, and customized plugins, with multiple of them coming from the Elgg community. A separate PHP user system was also created, in order to allow for future user functionality outside the scope of a social network. Furthermore, please note that users will not be able to reset their passwords in this local implementation.
 
 ------------------------------------------------------
 
